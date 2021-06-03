@@ -1,6 +1,6 @@
 # 搭建 Vite + Vue 3 + Typescript + tsx + less 项目 
 
-项目地址: 
+项目地址: [https://github.com/DuXiaoHeng/vue3-tsx](https://github.com/DuXiaoHeng/vue3-tsx)
 
 ### 1. 使用vite脚手架 初始化一个 Vue 3 + Typescript 项目
 > 文档： [搭建第一个vue项目](https://www.vitejs.net/guide/#%E6%90%AD%E5%BB%BA%E7%AC%AC%E4%B8%80%E4%B8%AA-vite-%E9%A1%B9%E7%9B%AE)
